@@ -7,6 +7,9 @@ This project reflects the focus on analyzing urban data (Kansas City's 311 servi
 
 This project involves creating insightful visualizations using Tableau and Power BI to answer specific business questions. It covers the entire process from data profiling to understanding data inconsistencies and staging the data for ad-hoc analysis. The aim is to extract meaningful insights from the `311_CallCenterServiceRequests_KansasCity_2007-March2021` dataset through a series of visualizations.
 
+![alteryxSS](https://github.com/pratik3336/UrbanPulseEngineer/assets/76115015/d76feb11-ac88-4bac-868f-a64d276bfe31)
+
+
 ## Scope of Work
 
 1. **Data Visualization:** Utilize Tableau and Power BI to develop visualizations based on provided business requirements.
